@@ -2,7 +2,7 @@ package Test;
 
 public class MergeSort {
     public static void main(String[] args) {
-        int arr[] = { 12, 11, 13, 5, 6, 7 ,3};
+        int arr[] = {4, 6, 3, 7}; //{ 12, 11, 13, 5, 6, 7 ,3};
 
         sort(arr, 0, arr.length-1);
 
